@@ -1,4 +1,4 @@
-package Classes;
+package _Classes;
 
 public class Helper implements Faculty {
     private String name;

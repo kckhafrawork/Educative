@@ -1,4 +1,3 @@
-package EducativeIO.FastAndSlowPointers;
 
 public class HappyNumber {
     public static int squareDigitSum(int sum) {

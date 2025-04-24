@@ -1,4 +1,3 @@
-package EducativeIO.TwoPointers;
 
 public class SortColors {
     public int[] sortColors(int[] colors) {

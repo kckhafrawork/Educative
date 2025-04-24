@@ -1,4 +1,3 @@
-package EducativeIO.MergingIntervals;
 
 import java.util.Arrays;
 import java.util.LinkedList;

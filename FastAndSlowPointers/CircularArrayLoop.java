@@ -1,4 +1,3 @@
-package EducativeIO.FastAndSlowPointers;
 
 public class CircularArrayLoop {
     public static int nextStep(int pointer, int value, int size) {

@@ -1,4 +1,3 @@
-package EducativeIO.FastAndSlowPointers;
 
 public class FindDuplicate {
     public static int findDuplicate(int[] nums) {

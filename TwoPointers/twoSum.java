@@ -1,4 +1,3 @@
-package EducativeIO.TwoPointers;
 
 import java.util.Arrays;
 

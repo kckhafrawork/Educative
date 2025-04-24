@@ -1,4 +1,3 @@
-package EducativeIO.BinarySearch;
 
 public class BinarySearch {
     public int binarySearch(int arr[], int target) {

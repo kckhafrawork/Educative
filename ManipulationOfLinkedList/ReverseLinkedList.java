@@ -1,4 +1,4 @@
-package EducativeIO.ManipulationOfLinkedList;
+package ManipulationOfLinkedList;
 
 class LinkedListNode {
     public int data;

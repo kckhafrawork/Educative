@@ -1,4 +1,3 @@
-package EducativeIO.SlidingWindow;
 
 import java.util.ArrayList;
 import java.util.Arrays;

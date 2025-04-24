@@ -1,4 +1,3 @@
-package EducativeIO.BinarySearch;
 
 import java.util.ArrayList;
 import java.util.List;

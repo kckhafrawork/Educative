@@ -1,4 +1,4 @@
-package Classes;
+package _Classes;
 
 public class Teacher implements Faculty {
     private String name;
